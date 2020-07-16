@@ -1,0 +1,11 @@
+{
+  "name": "webtorrent-demo",
+  "private": true,
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "create-torrent": "^4.4.2",
+    "parse-torrent": "^7.1.3"
+  }
+}
